@@ -4,8 +4,9 @@ permalink: "/Home/"
 layout: page
 ---
 
-
+<p>
 <img align="left" width="50%" height="50%" src="https://soyoungkim-econ.github.io/assets/profile.JPG" hspace="50"/>
+</p>
 
 # Welcome! 
 
