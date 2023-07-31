@@ -1,11 +1,11 @@
 ---
-title: "So Young Kim"
+title: " "
 permalink: "/Home/"
 layout: page
 ---
 
 
-<img align="left" width="50%" height="50%" src="https://soyoungkim-econ.github.io/assets/profile.JPG" hspace="50" />
+<img align="left" width="50%" height="50%" src="https://soyoungkim-econ.github.io/assets/profile.JPG" hspace="50">
 
 # Welcome! 
 
