@@ -8,7 +8,7 @@ layout: page
 <p>
   <div class-Insertcode>
 
-![IMG_2989](https://github.com/soyoungkim-econ/soyoungkim-econ.github.io/assets/123242295/71bf7bad-264a-4b07-8402-1da14adae81b)
+![image](https://soyoungkim-econ.github.io/assets/profile.JPG){: .align-left}{: width="50%" height="50%"}
 
 </div>
 Welcome! My name is So Young Kim and I am Economics PhD student at the University of Rochester.
