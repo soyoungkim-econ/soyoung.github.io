@@ -10,4 +10,6 @@ layout: page
 # Welcome! 
 
 <h3> My name is So Young Kim, and I am Economics PhD student at the University of Rochester.
+
+  You can contact me at soyoung.kim@rochester.edu.
 </h3>
