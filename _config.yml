@@ -16,7 +16,7 @@ minimal: false             # use a dark header
 # Menu
 
 navigation:                # accepts {file, title, url, icon, sidebaricon}
-  - {url: "https://soyoungkim-econ.github.io/CV_So_Young_Kim_Jul2023.pdf", title: "CV"}
+  - {url: "https://soyoungkim-econ.github.io/assets/CV_So_Young_Kim.pdf", title: "CV"}
   - {file: "Research.md", title: "Research"}
 
 external:                  # shows a footer with social links - for available icons see fontawesome.com/icons
